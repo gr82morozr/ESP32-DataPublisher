@@ -1,14 +1,14 @@
 {
-  "name": "ESP32 DataPublisher",
+  "name": "ESP32 Data Publisher",
   "version": "0.0.1",
   "keywords": [
     "Serial","WiFi","BLE"
   ],
-  "description": "ESP32 wireless libraries (WLAN, BLE, ESPNow).",
+  "description": "ESP32 data publish libraries (wired an wireless).",
   "repository":
   {
       "type": "git",
-      "url": "https://github.com/gr82morozr/ESP32-DataPublisher.git"
+      "url": "https://github.com/gr82morozr/esp32-datapublish.git"
   },
   "frameworks": "arduino",
   "platforms": "*"
